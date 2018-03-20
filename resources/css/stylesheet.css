@@ -46,3 +46,8 @@ p {
   background-color: dimgray;
   text-align: left;
 }
+
+a {
+  font-size: 18px;
+  color: white;
+}
